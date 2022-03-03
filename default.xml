@@ -33,6 +33,10 @@
   <remote name="vdk"
 	  fetch="https://github.com/ProjectMaterium"
 	  revision="vdk-devel" />
+  
+  <remote name="devices"
+	  fetch="https://github.com/Materium-Devices"
+	  revision="materium-v2" />
 
   <superproject name="platform/superproject" remote="aosp" revision="android-12.0.0_r29" />
   <contactinfo bugurl="go/repo-bug" />
